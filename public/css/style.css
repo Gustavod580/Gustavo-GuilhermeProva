@@ -4,7 +4,7 @@ body {
     padding: 0;
     font-family: 'Poppins', 'Verdana', 'Arial';
     background: #2A7B9B;
-    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(130, 197, 24, 1) 100%);
+    background: linear-gradient(90deg, rgb(98, 114, 121) 0%, rgb(192, 212, 12) 50%, rgb(96, 102, 85) 100%);
     max-width: 1090px;
 }
 
